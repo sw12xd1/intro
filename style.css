@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+.section-title {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.title {
+    color: red;
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+/* 可以根据需要添加更多样式 */
